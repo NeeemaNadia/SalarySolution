@@ -1,0 +1,11 @@
+C:\Users\Nadia\RiderProjects\SalarySolution\SalarySolution\bin\Debug\netcoreapp2.2\SalarySolution.deps.json
+C:\Users\Nadia\RiderProjects\SalarySolution\SalarySolution\bin\Debug\netcoreapp2.2\SalarySolution.runtimeconfig.json
+C:\Users\Nadia\RiderProjects\SalarySolution\SalarySolution\bin\Debug\netcoreapp2.2\SalarySolution.runtimeconfig.dev.json
+C:\Users\Nadia\RiderProjects\SalarySolution\SalarySolution\bin\Debug\netcoreapp2.2\SalarySolution.dll
+C:\Users\Nadia\RiderProjects\SalarySolution\SalarySolution\bin\Debug\netcoreapp2.2\SalarySolution.pdb
+C:\Users\Nadia\RiderProjects\SalarySolution\SalarySolution\obj\Debug\netcoreapp2.2\SalarySolution.csprojAssemblyReference.cache
+C:\Users\Nadia\RiderProjects\SalarySolution\SalarySolution\obj\Debug\netcoreapp2.2\SalarySolution.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\RiderProjects\SalarySolution\SalarySolution\obj\Debug\netcoreapp2.2\SalarySolution.AssemblyInfoInputs.cache
+C:\Users\Nadia\RiderProjects\SalarySolution\SalarySolution\obj\Debug\netcoreapp2.2\SalarySolution.AssemblyInfo.cs
+C:\Users\Nadia\RiderProjects\SalarySolution\SalarySolution\obj\Debug\netcoreapp2.2\SalarySolution.dll
+C:\Users\Nadia\RiderProjects\SalarySolution\SalarySolution\obj\Debug\netcoreapp2.2\SalarySolution.pdb
